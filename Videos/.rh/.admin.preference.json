@@ -1,0 +1,27 @@
+{
+  "recent-files::internal:document": [{
+    "title": "Frameless_2024",
+    "path": "F:/Aides_rh2020/Videos/publish/presets/Frameless_2024.preset",
+    "pinned": false,
+    "time": "19 janv., 11:24"
+  }, {
+    "title": "First_Topic",
+    "path": "F:/Aides_rh2020/Videos/contents/Abonnements_et_simulations_comptabilite_oxygene.htm",
+    "pinned": false,
+    "time": "19 janv., 11:02"
+  }],
+  "recent-files::external:multimedia": [{
+    "title": "HwnVxSdlfv0?si=JZ_hLk17cgK1tdd2",
+    "path": "https://youtu.be/HwnVxSdlfv0?si=JZ_hLk17cgK1tdd2",
+    "pinned": false,
+    "time": "19 janv., 11:22"
+  }],
+  "generate.outputs": {
+    "F:/Aides_rh2020/Videos/publish/presets/Frameless_2024.preset": {
+      "exists": true,
+      "path": "F:/Aides_rh2020/outputs/videos/index.htm",
+      "time": "2024-01-19T11:48:12+01:00",
+      "logFile": "C:/Users/admin/AppData/Local/Temp/4/RHTMP/Frameless_2024.ehtml"
+    }
+  }
+}

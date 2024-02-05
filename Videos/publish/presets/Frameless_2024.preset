@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <chatbotWelcomeText>Bienvenue ! En quoi puis-je vous aider ?</chatbotWelcomeText>
+  <chatbotDefaultText>Désolé, je n’ai pas de réponse à cela.</chatbotDefaultText>
+  <retryMsg>Attendez une minute...</retryMsg>
+  <placeholderText>Tapez votre message ici.</placeholderText>
+  <errorMsg>Il semble y avoir un problème, contactez l&#39;administrateur.</errorMsg>
+  <title>Videos</title>
+  <content>
+    <toc>
+      <path>../../toc/Default.toc</path>
+      <name>Default</name>
+    </toc>
+    <relativeOutputPath type="boolean">true</relativeOutputPath>
+    <index type="boolean">true</index>
+    <language>
+      <name>fr_FR</name>
+      <code type="number">1036</code>
+      <displayName>Français (France)</displayName>
+    </language>
+    <includeExpandingText type="boolean">true</includeExpandingText>
+    <includeDropdownText type="boolean">true</includeDropdownText>
+  </content>
+  <type>frameless</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>../outputs/videos/</outputPath>
+  <name>Frameless_2024</name>
+  <starterPage>index.htm</starterPage>
+  <encoding>
+    <name>utf-8</name>
+    <displayName>Unicode (UTF-8)</displayName>
+  </encoding>
+  <chatbot>
+    <name>dialogflow</name>
+    <displayName>Google Dialogflow</displayName>
+  </chatbot>
+  <mobileapp>
+    <android type="boolean">true</android>
+    <iOS type="boolean">false</iOS>
+  </mobileapp>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context>keyword</context>
+    <contextLimit type="number">100</contextLimit>
+    <maxSearchresults type="number">20</maxSearchresults>
+    <glossary type="boolean">true</glossary>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <sitemap>
+    <use type="boolean">true</use>
+    <helpBaseURL>http://aidestmp.memsoft.fr/videos</helpBaseURL>
+    <changeFrequency>Hourly</changeFrequency>
+  </sitemap>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <favicon>
+    <name>oxygene</name>
+    <path>../../../Compta/contents/assets/images/oxygene.ico</path>
+  </favicon>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <dgflowApiClientKey></dgflowApiClientKey>
+  <dgflowApiDevKey></dgflowApiDevKey>
+</preset>
